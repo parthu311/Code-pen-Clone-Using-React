@@ -1,0 +1,24 @@
+.codeMirror{
+    height: 340px;
+    color: #fff;
+
+}
+
+.CodeMirror-gutter-filler {
+    background: #1d1e22 !important;
+
+}
+
+.CodeMirror-gutter{
+    background-color: #1d1e22 !important;
+}
+
+.CodeMirror-scroll{
+    background: #1d1e22 !important;
+
+}
+.CodeMirror-lines{
+    color: white;    
+   
+    
+} 
